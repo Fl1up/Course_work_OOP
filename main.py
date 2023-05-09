@@ -1,24 +1,43 @@
-from hh_ru import HeadHunterAPI
+from classes import Headhanter, SuperJob, Connector
 
-if __name__ == '__main__':
-    #platforms = ["HeadHunter", "SuperJob"]
-    #print(f"Выберите платформу {platforms}")
-    #if input() == "HeadHunter":
+def main():
+    vacancies_json = []
+    #keyword = input("Введите ключевое слово для поиска")
+    keyword = "Python"
 
-    search_query = input("Введите поисковый запрос: ")
-    filter_words = input("Введите ключевые слова для фильтрации вакансий: ").split()
-    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
+    hh = Headhanter(keyword)
+    sj = SuperJob(keyword)
+    for api in (hh, sj):
+        api.get_vacancies(pages_count=1)
+        vacancies_json.extend(api.get_formatted_vacancies())
 
-    hh_vacancies = HeadHunterAPI(area=1, per_page=top_n)
-    hh_vacancies.search(keyword=filter_words)
-    hh_vacancies.print_jobs()
+    connector = Connector(keyword=keyword, vacancies_json=vacancies_json)
 
-    #filtered_vacancies = filter_vacancies(hh_vacancies, superjob_vacancies, filter_words)
-    #if not filtered_vacancies:
-        #print("Нет вакансий, соответствующих заданным критериям.")
-            # return
+    while True:
+        command = input(
+            "1 - вывести список вакансий:\n"
+            "2 - отсортировать по минимальной зарплате:\n"
+            "3 - отсортировать по минимальной зарплате (DESC):\n"
+            "4 - отсортировать по максимальной зарплате (DESC):\n"
+            "exit - для выхода.\n"
+        )
+        if command.lower() == "exit":
+            return
+        elif command == "1":
+            vacancies = connector.select()
+        elif command == "2":
+            vacancies = connector.sorted_vacancies_by_salary_from_asc()
+        elif command == "3":
+            vacancies = connector.sorted_vacancies_by_salary_from_desc()
+        elif command == "4":
+            vacancies = connector.sorted_vacancies_by_salary_from_asc()
+
+        for vacancy in vacancies:
+            print(vacancy, end="\n\n")
 
 
+if __name__ == "__main__":
+    main()
 
 
 
