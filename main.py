@@ -1,4 +1,7 @@
-from classes import Headhanter, SuperJob, Connector
+from superJob import SuperJob
+from classes import Connector
+from hh_ru import Headhanter
+
 
 def main():
     vacancies_json = []
