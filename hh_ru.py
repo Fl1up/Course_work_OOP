@@ -1,5 +1,6 @@
 import requests
-from classes import Engine, ParsingError
+from classes import Engine
+from class_Eror import ParsingError
 
 
 class Headhanter(Engine):

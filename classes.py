@@ -2,13 +2,6 @@ import json
 from vacancy import Vacancy
 from abc import ABC, abstractmethod
 
-
-class ParsingError(Exception):
-    """ Класс ошибки """
-    def __str__(self):
-        return f"Ошибка получения данных по API"
-
-
 class Connector:
     """ Класс записи, сортировки и чтения информации"""
     def __init__(self, keyword, vacancies_json):
@@ -52,8 +45,4 @@ class Engine(ABC):
     @abstractmethod
     def get_vacancies(self):
         pass
-
-
-
-
 
