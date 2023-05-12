@@ -5,17 +5,14 @@ from hh_ru import Headhanter
 
 def main():
     vacancies_json = []
-    keyword = input("Введите ключевое слово для поиска\n")
-
-
-    #keyword = "Python"
+    #keyword = input("Введите ключевое слово для поиска\n")
+    keyword = "Python"
 
     hh = Headhanter(keyword)
     sj = SuperJob(keyword)
     for api in (hh, sj):
         api.get_vacancies(pages_count=1)
         vacancies_json.extend(api.get_formatted_vacancies())
-
     connector = Connector(keyword=keyword, vacancies_json=vacancies_json)
 
     while True:
