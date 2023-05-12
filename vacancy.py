@@ -3,9 +3,14 @@ class Vacancy:
     __slots__ = ("id", "title", "url", "salary_from", "salary_to", "employer", "api")
 
     def __init__(self, id, title, url, salary_from, salary_to, employer, api):
-
+        if not isinstance(id, str):
+            raise ValueError("Параметр должен быть строкой")
         self.id = id
+        if not isinstance(title, str):
+            raise ValueError("Параметр должен быть строкой")
         self.title = title
+        if not isinstance(url, str):
+            raise ValueError("Параметр должен быть строкой")
         self.url = url
         self.salary_from = salary_from
         self.salary_to = salary_to

@@ -5,8 +5,10 @@ from hh_ru import Headhanter
 
 def main():
     vacancies_json = []
-    # keyword = input("Введите ключевое слово для поиска")
-    keyword = "Python"
+    keyword = input("Введите ключевое слово для поиска\n")
+
+
+    #keyword = "Python"
 
     hh = Headhanter(keyword)
     sj = SuperJob(keyword)
