@@ -52,3 +52,7 @@ class Engine(ABC):
     def get_vacancies(self):
         pass
 
+    @abstractmethod
+    def get_formatted_vacancies(self):
+        pass
+
