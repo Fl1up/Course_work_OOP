@@ -7,11 +7,19 @@ class Vacancy:
         self.id = id
         if not isinstance(title, str):
             raise ValueError("Параметр должен быть строкой")
+        if len(title) > 100:
+            raise ValueError("Название должно быть не более 100 символов")
         self.title = title
         if not isinstance(url, str):
             raise ValueError("Параметр должен быть строкой")
+        if not url.startswith("http"):
+            raise ValueError("URL должен начинаться с http")
         self.url = url
+        if salary_from is not None and salary_from < 0:
+            raise ValueError("Значение salary_from не может быть отрицательным")
         self.salary_from = salary_from
+        if salary_to is not None and salary_to < 0:
+            raise ValueError("Значение salary_to не может быть отрицательным")
         self.salary_to = salary_to
         if not isinstance(api, str):
             raise ValueError("Параметр должен быть строкой")
@@ -19,6 +27,30 @@ class Vacancy:
         if not isinstance(api, str):
             raise ValueError("Параметр должен быть строкой")
         self.api = api
+
+        @property
+        def title(self):
+            return self._title
+
+        @title.setter
+        def title(self, value):
+            if not isinstance(value, str):
+                raise ValueError("Параметр должен быть строкой")
+            if len(value) > 100:
+                raise ValueError("Название должно быть не более 100 символов")
+            self._title = value
+
+        @property
+        def url(self):
+            return self._url
+
+        @url.setter
+        def url(self, value):
+            if not isinstance(value, str):
+                raise ValueError("Параметр должен быть строкой")
+            if not value.startswith("http"):
+                raise ValueError("URL должен начинаться с http")
+            self._url = value
 
     def __gt__(self, other):
         if not other.salary_from:
