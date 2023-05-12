@@ -9,13 +9,13 @@
         "api": "HeadHunter"
     },
     {
-        "id": 39820613,
-        "title": "Специалист службы поддержки с техническими знаниями (Браузер)",
-        "url": "https://cherepovets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820613.html",
-        "salary_from": 15000,
-        "salary_to": 15000,
-        "employer": "Яндекс",
-        "api": "SupetJob"
+        "id": "79681180",
+        "title": "Intern / Junior Python backend developer",
+        "url": "https://hh.ru/vacancy/79681180",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Рекруто",
+        "api": "HeadHunter"
     },
     {
         "id": 44488229,
@@ -33,6 +33,483 @@
         "salary_from": 40065,
         "salary_to": 40065,
         "employer": "ГБПОУ Департамента Здравоохранения Города Москвы Медицинский Колледж № 7",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454707,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://volgodonsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454707.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454708,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novocherkassk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454708.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454709,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://syzran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454709.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454710,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kamensk-uralskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454710.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454711,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zlatoust.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454711.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454712,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://almetyevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454712.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454713,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://elektrostal.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454713.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454714,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kerch.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454714.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454715,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://miass.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454715.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454716,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://salavat.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454716.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454717,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kopeysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454717.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454718,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://pyatigorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454718.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454719,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://nahodka.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454719.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454720,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://khasavyurt.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454720.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454721,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://rubtsovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454721.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454722,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://maikop.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454722.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454723,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kolomna.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454723.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454724,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://berezniki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454724.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454725,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://domodedovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454725.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454726,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kovrov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454726.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454727,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://odintsovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454727.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454728,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://neftekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454728.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454729,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kislovodsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454729.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454730,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://bataisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454730.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454731,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://nefteyugansk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454731.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454732,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novocheboksarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454732.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454733,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://derbent.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454733.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454752,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454752.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454753,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://arhangelskaya-oblast-oktyabrskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454753.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454754,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://dimitrovgrad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454754.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454755,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://essentuki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454755.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454756,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kamyshin.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454756.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454757,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://evpatoriya.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454757.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454758,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zhukovskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454758.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454759,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://pushkino.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454759.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454760,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://reutov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454760.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454761,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://murom.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454761.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454762,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454762.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454763,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://noyabrsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454763.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454764,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://seversk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454764.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454765,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://artem.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454765.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454766,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://achinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454766.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454767,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://arzamas.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454767.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454768,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://berdsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454768.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454769,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454769.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454770,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://elista.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454770.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454771,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://yelets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454771.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454772,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://khanty-mansiisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454772.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454773,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zelenodolsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454773.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454774,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zheleznogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454774.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454775,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novokuybyshevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454775.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454776,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://sergiev-posad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454776.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46360275,
+        "title": "Сетевой инженер",
+        "url": "https://yaroslavl.superjob.ru/vakansii/setevoj-inzhener-46360275.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "билайн",
         "api": "SupetJob"
     },
     {
@@ -63,21 +540,21 @@
         "api": "SupetJob"
     },
     {
+        "id": 44458424,
+        "title": "Менеджер по работе с клиентами",
+        "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html",
+        "salary_from": 35000,
+        "salary_to": 35000,
+        "employer": "Ростелеком",
+        "api": "SupetJob"
+    },
+    {
         "id": 43503556,
         "title": "Инженер-программист",
         "url": "https://astrakhan.superjob.ru/vakansii/inzhener-programmist-43503556.html",
         "salary_from": 34400,
         "salary_to": 34400,
         "employer": "УГИБДД УМВД России по Астраханской области",
-        "api": "SupetJob"
-    },
-    {
-        "id": 44889234,
-        "title": "Менеджер по работе с входящими обращениями",
-        "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-vhodyaschimi-obrascheniyami-44889234.html",
-        "salary_from": 35000,
-        "salary_to": 35000,
-        "employer": "Ростелеком",
         "api": "SupetJob"
     },
     {
@@ -135,15 +612,6 @@
         "api": "SupetJob"
     },
     {
-        "id": 45715747,
-        "title": "Инженер-программист",
-        "url": "https://nn.superjob.ru/vakansii/inzhener-programmist-45715747.html",
-        "salary_from": 125000,
-        "salary_to": 125000,
-        "employer": "АРП-ДИЗАЙН",
-        "api": "SupetJob"
-    },
-    {
         "id": 45694246,
         "title": "Системный аналитик Big data",
         "url": "https://saratov.superjob.ru/vakansii/sistemnyj-analitik-big-data-45694246.html",
@@ -153,9 +621,9 @@
         "api": "SupetJob"
     },
     {
-        "id": 45812126,
+        "id": 45733204,
         "title": "Аналитик",
-        "url": "https://www.superjob.ru/vakansii/analitik-45812126.html",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
         "salary_from": 150000,
         "salary_to": 150000,
         "employer": "Альпинтех",
@@ -171,9 +639,9 @@
         "api": "SupetJob"
     },
     {
-        "id": 45919165,
-        "title": "Лаборант",
-        "url": "https://spb.superjob.ru/vakansii/laborant-45919165.html",
+        "id": 32399377,
+        "title": "Педагог дополнительного образования (цифровые технологии, информатика) в ЦЦО IT-куб",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-32399377.html",
         "salary_from": null,
         "salary_to": null,
         "employer": "Школа № 303 с углубленным изучением немецкого языка и предметов художественно-эстетического цикла имени Фридриха Шиллера",
@@ -222,15 +690,6 @@
         "salary_from": 55000,
         "salary_to": 55000,
         "employer": "Южный федеральный университет",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46185192,
-        "title": "Data Scientist",
-        "url": "https://www.superjob.ru/vakansii/data-scientist-46185192.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Спортмастер",
         "api": "SupetJob"
     },
     {
@@ -315,33 +774,6 @@
         "api": "SupetJob"
     },
     {
-        "id": 46185193,
-        "title": "Data Scientist",
-        "url": "https://spb.superjob.ru/vakansii/data-scientist-46185193.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Спортмастер",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46185194,
-        "title": "Data Scientist",
-        "url": "https://lipetsk.superjob.ru/vakansii/data-scientist-46185194.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Спортмастер",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46185195,
-        "title": "Data Scientist",
-        "url": "https://krasnodar.superjob.ru/vakansii/data-scientist-46185195.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Спортмастер",
-        "api": "SupetJob"
-    },
-    {
         "id": 46310164,
         "title": "Специалист отдела поддержки инфраструктуры",
         "url": "https://vladivostok.superjob.ru/vakansii/specialist-otdela-podderzhki-infrastruktury-46310164.html",
@@ -354,447 +786,6 @@
         "id": 46327245,
         "title": "Инженер-программист C++",
         "url": "https://www.superjob.ru/vakansii/inzhener-programmist-c-46327245.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350260,
-        "title": "Инженер-программист C++",
-        "url": "https://almaty-kz.superjob.ru/vakansii/inzhener-programmist-c-46350260.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350261,
-        "title": "Инженер-программист C++",
-        "url": "https://arhangelsk.superjob.ru/vakansii/inzhener-programmist-c-46350261.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350262,
-        "title": "Инженер-программист C++",
-        "url": "https://belgorod.superjob.ru/vakansii/inzhener-programmist-c-46350262.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350263,
-        "title": "Инженер-программист C++",
-        "url": "https://bryansk.superjob.ru/vakansii/inzhener-programmist-c-46350263.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350264,
-        "title": "Инженер-программист C++",
-        "url": "https://novgorod.superjob.ru/vakansii/inzhener-programmist-c-46350264.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350265,
-        "title": "Инженер-программист C++",
-        "url": "https://litva.superjob.ru/vakansii/inzhener-programmist-c-46350265.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350266,
-        "title": "Инженер-программист C++",
-        "url": "https://vladivostok.superjob.ru/vakansii/inzhener-programmist-c-46350266.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350267,
-        "title": "Инженер-программист C++",
-        "url": "https://vladimir.superjob.ru/vakansii/inzhener-programmist-c-46350267.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350268,
-        "title": "Инженер-программист C++",
-        "url": "https://volgograd.superjob.ru/vakansii/inzhener-programmist-c-46350268.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350269,
-        "title": "Инженер-программист C++",
-        "url": "https://vologda.superjob.ru/vakansii/inzhener-programmist-c-46350269.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350270,
-        "title": "Инженер-программист C++",
-        "url": "https://voronezh.superjob.ru/vakansii/inzhener-programmist-c-46350270.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350271,
-        "title": "Инженер-программист C++",
-        "url": "https://dnepropetrovsk.superjob.ua/vakansii/inzhener-programmist-c-46350271.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350272,
-        "title": "Инженер-программист C++",
-        "url": "https://ekaterinburg.superjob.ru/vakansii/inzhener-programmist-c-46350272.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350273,
-        "title": "Инженер-программист C++",
-        "url": "https://am.superjob.ru/vakansii/inzhener-programmist-c-46350273.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350274,
-        "title": "Инженер-программист C++",
-        "url": "https://ivanovo.superjob.ru/vakansii/inzhener-programmist-c-46350274.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350275,
-        "title": "Инженер-программист C++",
-        "url": "https://kazan.superjob.ru/vakansii/inzhener-programmist-c-46350275.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350276,
-        "title": "Инженер-программист C++",
-        "url": "https://kaliningrad.superjob.ru/vakansii/inzhener-programmist-c-46350276.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350277,
-        "title": "Инженер-программист C++",
-        "url": "https://kaluga.superjob.ru/vakansii/inzhener-programmist-c-46350277.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350278,
-        "title": "Инженер-программист C++",
-        "url": "https://www.superjob.ua/vakansii/inzhener-programmist-c-46350278.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350279,
-        "title": "Инженер-программист C++",
-        "url": "https://kirov.superjob.ru/vakansii/inzhener-programmist-c-46350279.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350280,
-        "title": "Инженер-программист C++",
-        "url": "https://tiraspol-md.superjob.ru/vakansii/inzhener-programmist-c-46350280.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350281,
-        "title": "Инженер-программист C++",
-        "url": "https://kostroma.superjob.ru/vakansii/inzhener-programmist-c-46350281.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350282,
-        "title": "Инженер-программист C++",
-        "url": "https://krasnodar.superjob.ru/vakansii/inzhener-programmist-c-46350282.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350283,
-        "title": "Инженер-программист C++",
-        "url": "https://krasnoyarsk.superjob.ru/vakansii/inzhener-programmist-c-46350283.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350284,
-        "title": "Инженер-программист C++",
-        "url": "https://kursk.superjob.ru/vakansii/inzhener-programmist-c-46350284.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350285,
-        "title": "Инженер-программист C++",
-        "url": "https://lipetsk.superjob.ru/vakansii/inzhener-programmist-c-46350285.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350286,
-        "title": "Инженер-программист C++",
-        "url": "https://www.superjob.by/vakansii/inzhener-programmist-c-46350286.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350287,
-        "title": "Инженер-программист C++",
-        "url": "https://murmansk.superjob.ru/vakansii/inzhener-programmist-c-46350287.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350288,
-        "title": "Инженер-программист C++",
-        "url": "https://nn.superjob.ru/vakansii/inzhener-programmist-c-46350288.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350289,
-        "title": "Инженер-программист C++",
-        "url": "https://nsk.superjob.ru/vakansii/inzhener-programmist-c-46350289.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350290,
-        "title": "Инженер-программист C++",
-        "url": "https://omsk.superjob.ru/vakansii/inzhener-programmist-c-46350290.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350291,
-        "title": "Инженер-программист C++",
-        "url": "https://orel.superjob.ru/vakansii/inzhener-programmist-c-46350291.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350292,
-        "title": "Инженер-программист C++",
-        "url": "https://petrozavodsk.superjob.ru/vakansii/inzhener-programmist-c-46350292.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350294,
-        "title": "Инженер-программист C++",
-        "url": "https://latvia.superjob.ru/vakansii/inzhener-programmist-c-46350294.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350295,
-        "title": "Инженер-программист C++",
-        "url": "https://rnd.superjob.ru/vakansii/inzhener-programmist-c-46350295.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350296,
-        "title": "Инженер-программист C++",
-        "url": "https://ryazan.superjob.ru/vakansii/inzhener-programmist-c-46350296.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350297,
-        "title": "Инженер-программист C++",
-        "url": "https://samara.superjob.ru/vakansii/inzhener-programmist-c-46350297.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350298,
-        "title": "Инженер-программист C++",
-        "url": "https://spb.superjob.ru/vakansii/inzhener-programmist-c-46350298.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350299,
-        "title": "Инженер-программист C++",
-        "url": "https://saratov.superjob.ru/vakansii/inzhener-programmist-c-46350299.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350300,
-        "title": "Инженер-программист C++",
-        "url": "https://smolensk.superjob.ru/vakansii/inzhener-programmist-c-46350300.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350301,
-        "title": "Инженер-программист C++",
-        "url": "https://ee.superjob.ru/vakansii/inzhener-programmist-c-46350301.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350302,
-        "title": "Инженер-программист C++",
-        "url": "https://tambov.superjob.ru/vakansii/inzhener-programmist-c-46350302.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350303,
-        "title": "Инженер-программист C++",
-        "url": "https://tbilisi-ge.superjob.ru/vakansii/inzhener-programmist-c-46350303.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350304,
-        "title": "Инженер-программист C++",
-        "url": "https://tver.superjob.ru/vakansii/inzhener-programmist-c-46350304.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350305,
-        "title": "Инженер-программист C++",
-        "url": "https://tomsk.superjob.ru/vakansii/inzhener-programmist-c-46350305.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350306,
-        "title": "Инженер-программист C++",
-        "url": "https://tula.superjob.ru/vakansii/inzhener-programmist-c-46350306.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350307,
-        "title": "Инженер-программист C++",
-        "url": "https://ulyanovsk.superjob.ru/vakansii/inzhener-programmist-c-46350307.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350308,
-        "title": "Инженер-программист C++",
-        "url": "https://chelyabinsk.superjob.ru/vakansii/inzhener-programmist-c-46350308.html",
-        "salary_from": null,
-        "salary_to": null,
-        "employer": "Next Level",
-        "api": "SupetJob"
-    },
-    {
-        "id": 46350309,
-        "title": "Инженер-программист C++",
-        "url": "https://yaroslavl.superjob.ru/vakansii/inzhener-programmist-c-46350309.html",
         "salary_from": null,
         "salary_to": null,
         "employer": "Next Level",
@@ -855,9 +846,18 @@
         "api": "SupetJob"
     },
     {
-        "id": 46009289,
-        "title": "Ведущий инженер отдела наукометрического анализа",
-        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-otdela-naukometricheskogo-analiza-46009289.html",
+        "id": 45695694,
+        "title": "Инженер-программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45695694.html",
+        "salary_from": 125000,
+        "salary_to": 125000,
+        "employer": "АРП-ДИЗАЙН",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46009011,
+        "title": "Ведущий инженер",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
         "salary_from": 60000,
         "salary_to": 60000,
         "employer": "Санкт-Петербургский горный университет",
@@ -888,6 +888,915 @@
         "salary_from": null,
         "salary_to": null,
         "employer": "Драйв Клик Банк",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46189776,
+        "title": "Middle Data / ML Engineer (автокоммуникации)",
+        "url": "https://www.superjob.ru/vakansii/middle-data-46189776.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Спортмастер",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46308183,
+        "title": "Старший преподаватель кафедры управления и информатики в технических системах",
+        "url": "https://www.superjob.ru/vakansii/starshij-prepodavatel-kafedry-upravleniya-i-informatiki-v-tehnicheskih-sistemah-46308183.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ФГБОУ ВО \"МГТУ \"СТАНКИН\"",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46276186,
+        "title": "Ведущий системный администратор",
+        "url": "https://www.superjob.ru/vakansii/veduschij-sistemnyj-administrator-46276186.html",
+        "salary_from": 160000,
+        "salary_to": 160000,
+        "employer": "СМ-Клиника",
+        "api": "SupetJob"
+    },
+    {
+        "id": 44488229,
+        "title": "Аналитик данных",
+        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-44488229.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Сбербанк",
+        "api": "SupetJob"
+    },
+    {
+        "id": 44933587,
+        "title": "Программист 1C",
+        "url": "https://www.superjob.ru/vakansii/programmist-1c-44933587.html",
+        "salary_from": 40065,
+        "salary_to": 40065,
+        "employer": "ГБПОУ Департамента Здравоохранения Города Москвы Медицинский Колледж № 7",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454707,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://volgodonsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454707.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454708,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novocherkassk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454708.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454709,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://syzran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454709.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454710,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kamensk-uralskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454710.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454711,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zlatoust.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454711.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454712,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://almetyevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454712.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454713,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://elektrostal.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454713.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454714,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kerch.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454714.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454715,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://miass.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454715.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454716,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://salavat.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454716.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454717,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kopeysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454717.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454718,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://pyatigorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454718.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454719,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://nahodka.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454719.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454720,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://khasavyurt.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454720.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454721,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://rubtsovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454721.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454722,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://maikop.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454722.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454723,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kolomna.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454723.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454724,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://berezniki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454724.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454725,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://domodedovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454725.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454726,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kovrov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454726.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454727,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://odintsovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454727.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454728,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://neftekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454728.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454729,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kislovodsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454729.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454730,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://bataisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454730.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454731,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://nefteyugansk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454731.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454732,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novocheboksarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454732.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454733,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://derbent.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454733.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454752,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454752.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454753,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://arhangelskaya-oblast-oktyabrskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454753.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454754,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://dimitrovgrad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454754.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454755,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://essentuki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454755.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454756,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://kamyshin.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454756.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454757,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://evpatoriya.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454757.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454758,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zhukovskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454758.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454759,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://pushkino.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454759.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454760,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://reutov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454760.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454761,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://murom.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454761.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454762,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454762.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454763,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://noyabrsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454763.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454764,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://seversk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454764.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454765,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://artem.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454765.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454766,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://achinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454766.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454767,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://arzamas.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454767.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454768,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://berdsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454768.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454769,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454769.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454770,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://elista.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454770.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454771,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://yelets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454771.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454772,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://khanty-mansiisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454772.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454773,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zelenodolsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454773.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454774,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://zheleznogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454774.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454775,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://novokuybyshevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454775.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45454776,
+        "title": "Специалист службы поддержки с техническими знаниями",
+        "url": "https://sergiev-posad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454776.html",
+        "salary_from": 15000,
+        "salary_to": 15000,
+        "employer": "Яндекс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46360275,
+        "title": "Сетевой инженер",
+        "url": "https://yaroslavl.superjob.ru/vakansii/setevoj-inzhener-46360275.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "билайн",
+        "api": "SupetJob"
+    },
+    {
+        "id": 36344427,
+        "title": "Учитель информатики",
+        "url": "https://zheleznodorozhniy.superjob.ru/vakansii/uchitel-informatiki-36344427.html",
+        "salary_from": 35000,
+        "salary_to": 35000,
+        "employer": "МБОУ СОШ № 10",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43496219,
+        "title": "Учитель информатики",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/uchitel-informatiki-43496219.html",
+        "salary_from": 35000,
+        "salary_to": 35000,
+        "employer": "МБОУ СОШ № 95",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43502923,
+        "title": "Программист-педагог",
+        "url": "https://novokuznetsk.superjob.ru/vakansii/programmist-pedagog-43502923.html",
+        "salary_from": 20000,
+        "salary_to": 20000,
+        "employer": "МБУ ДО \"Центр детского (юношеского) технического творчества \"Меридиан\"",
+        "api": "SupetJob"
+    },
+    {
+        "id": 44458424,
+        "title": "Менеджер по работе с клиентами",
+        "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html",
+        "salary_from": 35000,
+        "salary_to": 35000,
+        "employer": "Ростелеком",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43503556,
+        "title": "Инженер-программист",
+        "url": "https://astrakhan.superjob.ru/vakansii/inzhener-programmist-43503556.html",
+        "salary_from": 34400,
+        "salary_to": 34400,
+        "employer": "УГИБДД УМВД России по Астраханской области",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45548247,
+        "title": "Разработчик ПО",
+        "url": "https://www.superjob.ru/vakansii/razrabotchik-po-45548247.html",
+        "salary_from": 150000,
+        "salary_to": 150000,
+        "employer": "НИИ Транснефть",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45570129,
+        "title": "Senior 1С программист",
+        "url": "https://www.superjob.ru/vakansii/senior-1s-programmist-45570129.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АЛЬФАСКЛАД",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45594068,
+        "title": "Программист",
+        "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
+        "salary_from": 60000,
+        "salary_to": 60000,
+        "employer": "Департамент городского хозяйства",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45630898,
+        "title": "Младший научный сотрудник",
+        "url": "https://gatchina.superjob.ru/vakansii/mladshij-nauchnyj-sotrudnik-45630898.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "НИЦ “Курчатовский институт” ПИЯФ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43163788,
+        "title": "Главный специалист Отдела программой эксплуатации",
+        "url": "https://izhevsk.superjob.ru/vakansii/glavnyj-specialist-otdela-programmoj-ekspluatacii-43163788.html",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employer": "МИЦ ПФР",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45698480,
+        "title": "Учитель по программированию",
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Школа программирования",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45694246,
+        "title": "Системный аналитик Big data",
+        "url": "https://saratov.superjob.ru/vakansii/sistemnyj-analitik-big-data-45694246.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Т Плюс",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45733204,
+        "title": "Аналитик",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "salary_from": 150000,
+        "salary_to": 150000,
+        "employer": "Альпинтех",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45842859,
+        "title": "Инженер-электронщик",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/inzhener-elektronschik-45842859.html",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employer": "Friendwork",
+        "api": "SupetJob"
+    },
+    {
+        "id": 32399377,
+        "title": "Педагог дополнительного образования (цифровые технологии, информатика) в ЦЦО IT-куб",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-32399377.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Школа № 303 с углубленным изучением немецкого языка и предметов художественно-эстетического цикла имени Фридриха Шиллера",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45774971,
+        "title": "Разработчик кастомизации и внедрения",
+        "url": "https://www.superjob.ru/vakansii/razrabotchik-kastomizacii-i-vnedreniya-45774971.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ДИНАМИЧЕСКИЕ СИСТЕМЫ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45317963,
+        "title": "Инженер-программист (МИС Самсон)",
+        "url": "https://spb.superjob.ru/vakansii/inzhener-programmist-45317963.html",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employer": "СПб ГБУЗ Городская поликлиника № 38",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45980418,
+        "title": "Преподаватель IT дисциплин / Мастер ПО (Направление IT)",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-it-disciplin-45980418.html",
+        "salary_from": 85000,
+        "salary_to": 85000,
+        "employer": "ГБПОУ Колледж связи № 54 имени П. М. Вострухина Образовательное подразделение 8",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46128992,
+        "title": "Системный администратор",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-46128992.html",
+        "salary_from": 90000,
+        "salary_to": 90000,
+        "employer": "СЛАВКОФЕ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 44342838,
+        "title": "Data Scientist (computer vision, machine learning)",
+        "url": "https://rnd.superjob.ru/vakansii/data-scientist-44342838.html",
+        "salary_from": 55000,
+        "salary_to": 55000,
+        "employer": "Южный федеральный университет",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46206297,
+        "title": "Программист",
+        "url": "https://spb.superjob.ru/vakansii/programmist-46206297.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АРМК",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46213308,
+        "title": "Научный сотрудник",
+        "url": "https://www.superjob.ru/vakansii/nauchnyj-sotrudnik-46213308.html",
+        "salary_from": 120000,
+        "salary_to": 120000,
+        "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46234726,
+        "title": "Педагог дополнительного образования (робототехника)",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46234726.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ГБОУ СОШ № 134",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46245010,
+        "title": "Программист-разработчик Golang",
+        "url": "https://rnd.superjob.ru/vakansii/programmist-razrabotchik-golang-46245010.html",
+        "salary_from": 60000,
+        "salary_to": 60000,
+        "employer": "НИИ \"Спецвузавтоматика\"",
+        "api": "SupetJob"
+    },
+    {
+        "id": 34389482,
+        "title": "Доцент / Профессор",
+        "url": "https://tyumen.superjob.ru/vakansii/docent-34389482.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Тюменский индустриальный университет",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46276436,
+        "title": "Ведущий программист-разработчик 1С",
+        "url": "https://www.superjob.ru/vakansii/veduschij-programmist-razrabotchik-1s-46276436.html",
+        "salary_from": 160000,
+        "salary_to": 160000,
+        "employer": "Информационные Бизнес Решения",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46277766,
+        "title": "Руководитель группы разработки ПО (Техлид)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЦЕНТР ЦИФРОВОГО РАЗВИТИЯ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46280736,
+        "title": "Преподаватель курса-Python для анализа данных",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-kursa-python-dlya-analiza-dannyh-46280736.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ДПО Центр «Профессионал»",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46296771,
+        "title": "Системный инженер",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-46296771.html",
+        "salary_from": 120000,
+        "salary_to": 120000,
+        "employer": "ЭКО центр",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46310164,
+        "title": "Специалист отдела поддержки инфраструктуры",
+        "url": "https://vladivostok.superjob.ru/vakansii/specialist-otdela-podderzhki-infrastruktury-46310164.html",
+        "salary_from": 90000,
+        "salary_to": 90000,
+        "employer": "СКБ Приморья «Примсоцбанк»",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46327245,
+        "title": "Инженер-программист C++",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-c-46327245.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Next Level",
+        "api": "SupetJob"
+    },
+    {
+        "id": 37923007,
+        "title": "Учитель информатики",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-37923007.html",
+        "salary_from": 65000,
+        "salary_to": 65000,
+        "employer": "ГБОУ Школа 575 Приморского района г. Санкт Петербург",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43147987,
+        "title": "Инженер Программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-43147987.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ФГБУ \"Научно-исследовательский центр космической гидрометеорологии \"Планета\"",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43148990,
+        "title": "Инженер-радиоэлектронщик 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employer": "Радиофизика",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43877938,
+        "title": "Преподаватель Информатика и вычислительная техника",
+        "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatika-i-vychislitelnaya-tehnika-43877938.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СПб ГБ ПОУ \"Радиотехнический колледж\"",
+        "api": "SupetJob"
+    },
+    {
+        "id": 43168648,
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-43168648.html",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employer": "Образовательный центр Протон",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45695529,
+        "title": "Программист Linux",
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employer": "Фактор-ТС",
+        "api": "SupetJob"
+    },
+    {
+        "id": 45695694,
+        "title": "Инженер-программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45695694.html",
+        "salary_from": 125000,
+        "salary_to": 125000,
+        "employer": "АРП-ДИЗАЙН",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46009011,
+        "title": "Ведущий инженер",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
+        "salary_from": 60000,
+        "salary_to": 60000,
+        "employer": "Санкт-Петербургский горный университет",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46215550,
+        "title": "Системный инженер SOC (ELK)",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-soc-46215550.html",
+        "salary_from": 160000,
+        "salary_to": 160000,
+        "employer": "ИБ Реформ",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46296647,
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-46296647.html",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employer": "Школа №2116",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46176568,
+        "title": "Системный администратор Linux",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-linux-46176568.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Драйв Клик Банк",
+        "api": "SupetJob"
+    },
+    {
+        "id": 46189776,
+        "title": "Middle Data / ML Engineer (автокоммуникации)",
+        "url": "https://www.superjob.ru/vakansii/middle-data-46189776.html",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Спортмастер",
         "api": "SupetJob"
     },
     {
